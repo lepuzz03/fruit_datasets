@@ -1,6 +1,6 @@
 # Apricot
 
-![Apricot](https://raw.githubusercontent.com/aghussb/fruit_datasets/main/elderberry/datasets/Apricot_5.jpg)
+![Apricot](https://raw.githubusercontent.com/aghussb/fruit_datasets/main/apricot/datasets/Apricot_1.jpg)
 
 ## Description
 
