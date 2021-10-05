@@ -1,6 +1,6 @@
 # Apple Braeburn
 
-![Apple Braeburn](https://raw.githubusercontent.com/aghussb/fruit_datasets/main/apple%20braeburn/datasets/apple%20braeburn_1.jpg)
+![Apple Braeburn](https://raw.githubusercontent.com/aghussb/fruit_datasets/main/apple%20braeburn/datasets/Apple%20Braeburn_1.jpg)
 
 ## Description
 
