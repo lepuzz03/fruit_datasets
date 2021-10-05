@@ -1,4 +1,4 @@
-# Contributing to Datasets Plant
+# Contributing to Datasets Fruit
 
 🎉👍 First off, thanks for taking the time to contribute! 🎉👍
 
@@ -16,4 +16,4 @@ Make README.md for a description of the fruit you choose and don't forget to pro
 Format README.md like in folder sample there are pictures and descriptions.
 
 ## 3. Image Dataset
-Make folder **datasets** with the format name [name fruit]_1,[name fruit]_2,[name fruit]_3,etc and a min **8** images
+Make folder **datasets** with the format name [name fruit]_1,[name fruit]_2,[name fruit]_3,etc and a min **4** images
